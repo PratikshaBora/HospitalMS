@@ -21,8 +21,7 @@
 		<ul>
 			<li><a href="PatientLogin.jsp">Login</a></li>
 			<li><a href="PatientRegister.jsp">Register</a></li>
-			<li><a href="${pageContext.request.contextPath}/allData">Data</a>
-			
+			<li><a href="${pageContext.request.contextPath}/allData">Data</a>  
 		</ul>
 	</div>
 	

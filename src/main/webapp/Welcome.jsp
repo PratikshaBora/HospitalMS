@@ -32,9 +32,17 @@ h1{
 img{
 	margin-left: 350px;
 }
+.logo{
+	float:left;
+	background-color: white;
+	margin:0px;
+}
 </style>
 </head>
 <body>
+	<div class="logo">
+		<img class="logo" src="/images/JBK Logo.jpeg" width="60px" height="60px">
+	</div>
 	<h1>Hospital Management System</h1>
 	<div>
 		<ul>
@@ -44,6 +52,6 @@ img{
 		</ul>
 	</div>
 
-	<img src="hospital.jpg" width="300px" height="300px">
+	<img src="/images/hospital.jpg" width="300px" height="300px">
 </body>
 </html>
